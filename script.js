@@ -90,3 +90,8 @@ console.log('Фрилансер' > 'фрилансер');
 
 let textA = 6;
 console.log(textA);
+
+let fr = 'Фрилансер';
+console.log(fr.slice(5,6));
+console.log(fr.toUpperCase());
+console.log(fr.slice(3,6));
